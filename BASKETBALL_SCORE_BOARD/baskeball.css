@@ -1,0 +1,104 @@
+body {
+    margin: 0;	
+}
+
+/* Topography */
+
+.text {
+	font-family: Cursed Timer ULiL;
+	font-size: 90px;
+	font-weight: 400;
+	line-height: 126.67px;
+	text-align: center;
+	color : #F94F6D;
+}
+
+.title-info {
+	font-family: Verdana;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 35.89px;
+	text-align: center;
+	color: #EEEEEE;
+}
+
+.btn-text{
+	font-family: Cursed Timer ULiL;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 27.81px;
+	text-align: center;
+	color: #9AABD8;
+
+}
+
+/* layout */
+
+.container {
+    display: flex;
+    justify-content: space-around;
+	background-color: #1B244A;
+	width: 575px;
+    Height: 385px;
+	margin: 0 auto;
+	color: white;
+	margin-top: 20px;
+	
+}
+
+.title-container {
+	width: 149px;
+	height: 36px;
+	top: 68px;
+	left: 340px;
+	gap: 0px;
+	opacity: 0px;
+
+}
+
+.text-info {
+	width: 155px;
+	height: 120px;
+	top: 125px;
+	left: 82px;
+	gap: 0px;
+	border-radius: 5px 0px 0px 0px;
+	opacity: 0px;
+	background-color: #080001;
+	margin-top: -50px;
+}
+
+.btn-container {
+	width: 155px;
+	height: 45px;
+	top: 271px;
+	left: 82px;
+	gap: 0px;
+	border-radius: 5px 0px 0px 0px;
+	opacity: 0px;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+
+}
+
+.btn-text{
+	font-family: Cursed Timer ULiL;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 27.81px;
+	text-align: center;
+	color: #9AABD8;
+	width: 45px;
+	height: 45px;
+	text-align: center;
+	top: 271px;
+	left: 82px;
+	gap: 0px;
+	border-radius: 5px 0px 0px 0px;
+	opacity: 0px;
+	border: 2px solid #9AABD8; 
+	background-color: #1B244A;
+}
+
+
